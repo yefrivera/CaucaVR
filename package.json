@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "tar": "^6.2.0",
+    "three": "^0.160.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.2"
+  }
+}
